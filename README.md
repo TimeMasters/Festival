@@ -1,3 +1,3 @@
-# Application qui repertorie les festival de l'été 2015
+# Festival
 
-Projet réalisé dans le cadre de l'apprentissage de Java en DUT informatique
+Java app that references some summer festivals of year 2015. It is a project realised for learning java and java GUI .
